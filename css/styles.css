@@ -1,0 +1,15 @@
+.education {
+  color: red;
+}
+
+.experience {
+  text-decoration: line-through;
+}
+
+.skills {
+  font-weight: bold;
+}
+
+.first {
+  font-style: italic;
+}
